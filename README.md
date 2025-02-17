@@ -26,7 +26,7 @@
     <td>
       <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,materialui,ai,ps,unity&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,materialui,ai,ps,unity,godot,blender&perline=14" />
   </a>
 </p>
     </td>
