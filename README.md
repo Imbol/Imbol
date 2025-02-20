@@ -7,6 +7,7 @@
 💡 I like exploring new technologies and developing software solutions and quick hacks. <br>
 👩‍💻 I'm currently working on web development and UX/UI design. <br>
 🎮 In my spare time, I'm dedicated to developing my own video games and apps. <br>
+🖼️Here you can see my projects in figma <a href="https://github.com/Imbol/Figma_Proyects"><img img src="https://img.shields.io/badge/figma-%23EA4335.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/></a><br>
 💌 You can contact me at <a href="mailto:imbolmaribel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> and <a href="https://www.linkedin.com/in/maribel-imbol-a3733724a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> I'll try to respond as soon as possible.
 
 ### 🛠️ &nbsp;Skills
